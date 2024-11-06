@@ -1,0 +1,1 @@
+This is basic currency exchange app using react and SCSS.
